@@ -1,0 +1,10 @@
+Metodo usado, numero de ocorrencias, tempo de execucao (ms)
+SerialCPU,18228,68
+ParallelCPU,18228,49
+ParallelGPU,15888,398
+SerialCPU,18228,27
+ParallelCPU,18228,68
+ParallelGPU,15888,148
+SerialCPU,18228,27
+ParallelCPU,18228,55
+ParallelGPU,15888,127
